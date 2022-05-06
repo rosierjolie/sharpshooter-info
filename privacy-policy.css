@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(224, 216, 206);
+  font-family: "Roboto";
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    margin-bottom: 15%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    margin: 5% 20%;
+  }
+}
